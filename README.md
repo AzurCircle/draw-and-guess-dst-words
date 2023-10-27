@@ -4,3 +4,14 @@
 
 - [全词库](https://steamcommunity.com/sharedfiles/filedetails/?id=2982166621)：在游戏里用 `for a,b in pairs(STRINGS.NAMES)do print(b)end` 导出之后人工删掉不是物品的词
 - [精选词库](https://steamcommunity.com/sharedfiles/filedetails/?id=2982587995)：由 [莎士比基尼](https://space.bilibili.com/10501760/) 人工精选的词集
+
+---
+
+> Windows 上的本地词库现在已经从
+> ```
+> C:/Program Files (x86)/Steam/steamapps/common/Draw & Guess/Custom/
+> ```
+> 换到了
+> ```
+> %USERPROFILE%/AppData/LocalLow/Acureus/Draw_Guess/Custom/
+> ```
